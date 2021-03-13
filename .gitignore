@@ -1,0 +1,11 @@
+venv
+__pycache__
+dist
+build
+htmlocto.egg-info
+pages
+output
+template
+*.json
+.vscode
+*.txt
