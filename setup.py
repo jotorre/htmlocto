@@ -10,6 +10,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/jotorre/htmlocto",
     author="Joel Torres",
+    author_email="jotorre2@outlook.com",
     license="MIT",
     classifiers=[
         "Development Status :: 4 - Beta",
